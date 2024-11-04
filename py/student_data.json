@@ -1,0 +1,14 @@
+{
+    "student_data": [
+        {
+            "name": "Hyun Jin Kim",
+            "email": "kim.hyunjin@kaist.ac.kr",
+            "github_id": "kimhj516"
+        },
+        {
+            "name": "Snoopy",
+            "email": "snoopy@kaist.ac.kr",
+            "github_id": "snoopy"
+        }
+    ]
+}
