@@ -9,6 +9,11 @@
             "name": "Snoopy",
             "email": "snoopy@kaist.ac.kr",
             "github_id": "snoopy"
-        }
+        },
+	{
+	    "name": "Seo Hyeon Jeong",
+	    "email": "jsh99@kaist.ac.kr",
+	    "github_id": "Emotionchord"
+	}
     ]
 }
