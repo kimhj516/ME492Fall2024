@@ -16,3 +16,7 @@ def jsh99():
 def gmmyung():
     for each_student in data["student_data"]:
         print(each_student["name"], "'s me492 grade is ", each_student["grade"], sep="")
+
+def rapael6696():
+    for each_student in data["student_data"]:
+        print(each_student["name"], "'s github ID is ", each_student["github_id"])
