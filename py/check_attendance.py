@@ -19,6 +19,5 @@ def gmmyung():
 
 def rapael6696():
     # A function which prints students major for every student.
-    # Similar to TA's function, major is the sample information I only added to me, so this function will not work properly. 
     for each_student in data["student_data"]:
         print(each_student["name"], "'s major is ", each_student["major"])
