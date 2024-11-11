@@ -3,17 +3,26 @@
         {
             "name": "Hyun Jin Kim",
             "email": "kim.hyunjin@kaist.ac.kr",
-            "github_id": "kimhj516"
+            "github_id": "kimhj516",
+	    "grade": "A+"
         },
         {
             "name": "Snoopy",
             "email": "snoopy@kaist.ac.kr",
-            "github_id": "snoopy"
+            "github_id": "snoopy",
+	    "grade": "A+"
         },
 	{
 	    "name": "Seo Hyeon Jeong",
 	    "email": "jsh99@kaist.ac.kr",
-	    "github_id": "Emotionchord"
+	    "github_id": "Emotionchord",
+	    "grade": "A+"
+	},
+	{
+	    "name": "Myung Gyung Min",
+	    "email": "gmmyung@kaist.ac.kr",
+	    "github_id": "gmmyung",
+	    "grade": "A+"
 	}
     ]
 }

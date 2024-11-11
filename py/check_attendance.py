@@ -12,3 +12,7 @@ def jsh99():
     # Since there are no student ID info in json file yet, so this function won't work properly.
     for each_student in data["student_data"]:
         print(each_student["name"], "'s student ID is ", each_student["student_id"])
+
+def gmmyung():
+    for each_student in data["student_data"]:
+        print(each_student["name"], "'s me492 grade is ", each_student["grade"], sep="")
