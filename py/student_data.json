@@ -34,6 +34,13 @@
 	    "github_id": "KH-Lee123",
 	    "major": "Mechanical Engineering",
 	    "grade": "A+"
+	},
+	{
+		"name": "Soyeon Oh",
+		"email": "tory453@kaist.ac.kr",
+		"github_id": "tory453",
+		"major": "Mechanical Engineering",
+		"grade": "A+"
 	}
     ]
 }
