@@ -6,7 +6,9 @@
             "github_id": "kimhj516",
 	    "major": "Mechanical Engineering",
 	    "grade": "A+",
+	    "address":"Busan",
 		"student_status": "Enrroled"
+		
         },
         {
             "name": "Snoopy",
@@ -14,6 +16,7 @@
             "github_id": "snoopy",
 	    "major": "Mechanical Engineering",
 	    "grade": "A+",
+	    "address": "Seoul",
 		"student_status": "Enrroled"
         },
 	{
@@ -22,6 +25,7 @@
 	    "github_id": "Emotionchord",
 	    "major": "Mechanical Engineering",
 	    "grade": "A+",
+	    "address": "Daegu",
 		"student_status": "Enrroled"
 	},
 	{
@@ -30,6 +34,7 @@
 	    "github_id": "gmmyung",
 	    "major": "Mechanical Engineering",
 	    "grade": "A+",
+	    "address":"Incheon",
 		"student_status": "Enrroled"
 	},
 	{
@@ -38,6 +43,7 @@
 	    "github_id": "KH-Lee123",
 	    "major": "Mechanical Engineering",
 	    "grade": "A+",
+	    "address": "Jeju",
 		"student_status": "Enrroled"
 	},
 	{
@@ -46,6 +52,7 @@
 		"github_id": "tory453",
 		"major": "Mechanical Engineering",
 		"grade": "A+",
+		"address":"Jeonju",
 		"student_status": "Enrroled"
 	},
 	{
@@ -54,6 +61,7 @@
 		"github_id": "ssemiwest",
 		"major": "Mechanical Engineering",
 		"grade": "A+",
+		"address":"Bundang",
 		"student_status": "Enrroled"
 	}
     ]

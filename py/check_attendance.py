@@ -26,3 +26,8 @@ def tory453():
 	#A function wich print student status for every student.
 	for each_student in data["student_data"]:
 		print(each_student["name"], "'s status is ", each_student["student_status"])
+
+def joonseo():
+    for each_student in data["student_data"]:
+        print(each_student["name"], "'s student address is ", each_student["address"])
+
