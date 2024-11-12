@@ -5,42 +5,48 @@
             "email": "kim.hyunjin@kaist.ac.kr",
             "github_id": "kimhj516",
 	    "major": "Mechanical Engineering",
-	    "grade": "A+"
+	    "grade": "A+",
+		"student_status": "Enrroled"
         },
         {
             "name": "Snoopy",
             "email": "snoopy@kaist.ac.kr",
             "github_id": "snoopy",
 	    "major": "Mechanical Engineering",
-	    "grade": "A+"
+	    "grade": "A+",
+		"student_status": "Enrroled"
         },
 	{
 	    "name": "Seo Hyeon Jeong",
 	    "email": "jsh99@kaist.ac.kr",
 	    "github_id": "Emotionchord",
 	    "major": "Mechanical Engineering",
-	    "grade": "A+"
+	    "grade": "A+",
+		"student_status": "Enrroled"
 	},
 	{
 	    "name": "Myung Gyung Min",
 	    "email": "gmmyung@kaist.ac.kr",
 	    "github_id": "gmmyung",
 	    "major": "Mechanical Engineering",
-	    "grade": "A+"
+	    "grade": "A+",
+		"student_status": "Enrroled"
 	},
 	{
 	    "name": "Kyeonghun Lee",
 	    "email": "rapael6696@kaist.ac.kr",
 	    "github_id": "KH-Lee123",
 	    "major": "Mechanical Engineering",
-	    "grade": "A+"
+	    "grade": "A+",
+		"student_status": "Enrroled"
 	},
 	{
 		"name": "Soyeon Oh",
 		"email": "tory453@kaist.ac.kr",
 		"github_id": "tory453",
 		"major": "Mechanical Engineering",
-		"grade": "A+"
+		"grade": "A+",
+		"student_status": "Enrroled"
 	}
     ]
 }
