@@ -47,6 +47,14 @@
 		"major": "Mechanical Engineering",
 		"grade": "A+",
 		"student_status": "Enrroled"
+	},
+	{
+		"name": "Joonseo Kim",
+		"email": "joonseo@kaist.ac.kr",
+		"github_id": "ssemiwest",
+		"major": "Mechanical Engineering",
+		"grade": "A+",
+		"student_status": "Enrroled"
 	}
     ]
 }
