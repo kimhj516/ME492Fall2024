@@ -31,3 +31,6 @@ def joonseo():
     for each_student in data["student_data"]:
         print(each_student["name"], "'s student address is ", each_student["address"])
 
+def star_doh():
+    for each_student in data["student_data"]:
+        print(each_student["name"], "'s student retake is", each_student["retake"])

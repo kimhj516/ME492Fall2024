@@ -8,6 +8,7 @@
 	    "grade": "A+",
 	    "address":"Busan",
 		"student_status": "Enrroled"
+		"retake":"N"
 		
         },
         {
@@ -18,6 +19,7 @@
 	    "grade": "A+",
 	    "address": "Seoul",
 		"student_status": "Enrroled"
+		"retake":"N"
         },
 	{
 	    "name": "Seo Hyeon Jeong",
@@ -27,6 +29,7 @@
 	    "grade": "A+",
 	    "address": "Daegu",
 		"student_status": "Enrroled"
+		"retake":"N"
 	},
 	{
 	    "name": "Myung Gyung Min",
@@ -36,6 +39,7 @@
 	    "grade": "A+",
 	    "address":"Incheon",
 		"student_status": "Enrroled"
+		"retake":"N"
 	},
 	{
 	    "name": "Kyeonghun Lee",
@@ -45,6 +49,7 @@
 	    "grade": "A+",
 	    "address": "Jeju",
 		"student_status": "Enrroled"
+		"retake":"N"
 	},
 	{
 		"name": "Soyeon Oh",
@@ -54,6 +59,7 @@
 		"grade": "A+",
 		"address":"Jeonju",
 		"student_status": "Enrroled"
+		"retake":"N"
 	},
 	{
 		"name": "Joonseo Kim",
@@ -63,6 +69,17 @@
 		"grade": "A+",
 		"address":"Bundang",
 		"student_status": "Enrroled"
+		"retake" :"N"
+	},
+	{
+		"name": "Hosung Doh",
+		"email": "star_doh@kaist.ac.kr",
+		"github_id": "stardoh",
+		"major": "Mechanical Engineering",
+		"grade": "A+",
+		"address": "Seoul",
+		"student_status": "Enrroled"
+		"retake": "N"
 	}
     ]
 }
