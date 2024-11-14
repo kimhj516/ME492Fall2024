@@ -80,6 +80,17 @@
 		"address": "Seoul",
 		"student_status": "Enrroled"
 		"retake": "N"
-	}
+	},
+        {
+                "name": "Minjae Kwun",
+                "email": "kopgh8026@kaist.ac.kr",
+                "github_id": "k-duckhunter",
+                "major": "Mechanical Engineering",
+                "grade": "A+",
+                "address": "Incheon",
+                "student_status": "Enrroled"
+                "retake": "N"
+        }
+
     ]
 }
