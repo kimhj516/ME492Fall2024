@@ -39,3 +39,6 @@ def kopgh8026():
     for each_student in data["student_data"]:
         print(each_student["name"], "'s student adress is", each_student["address"])
 
+def jhhan04():
+    for each_student in data["student_data"]:
+	print(each_student["name"], "'s major is ", each_student["major"])

@@ -90,7 +90,17 @@
                 "address": "Incheon",
                 "student_status": "Enrroled"
                 "retake": "N"
-        }
+        },
+	{
+		"name" : "Jaeho Han",
+		"email" : "jhhan04@kaist.ac.kr",
+		"github_id" : "ilku0128",
+		"major" : "Mechanical Engineering",
+		"grade" : "A+",
+		"address" : "Incheon",
+		"student_status" : "Enrroled"
+		"retake" : "N"
+	}
 
     ]
 }
