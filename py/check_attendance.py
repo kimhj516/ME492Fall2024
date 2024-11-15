@@ -50,3 +50,7 @@ def aimer1():
 def leohyun777():
     for each_student in data["student_data"]:
         print(each_student["name"], "'s github id is ", each_student["github_id"])
+
+def kimjw43():
+    for each_student in data["student_data"]:
+        print(each_student["name"], "is majoring in", each_student["major"])
