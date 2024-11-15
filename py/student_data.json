@@ -100,7 +100,17 @@
 		"address" : "Incheon",
 		"student_status" : "Enrroled",
 		"retake" : "N"
-	}
+	},
+	{
+		"name" : "Lee Tae Woo",
+		"email" : "aimer1@kaist.ac.kr",
+		"github_id" : "kaimer1",
+		"major" : "Mechanical Engineering",
+		"grade" : "A+",
+		"address" : "Yong In"
+		"student_status" : "Enrroled",
+		"retake" : "N"
+ 	}
 
     ]
 }
