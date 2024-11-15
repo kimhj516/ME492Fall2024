@@ -11,7 +11,8 @@
 		"retake":"N",
 	    "grad_y": "25",
             "height": "180",
-	    "Bday": "0000"
+	    "Bday": "0000",
+		"GPA": "4.3"
         },
         {
             "name": "Snoopy",
@@ -24,7 +25,8 @@
 		"retake":"N",
 	     "grad_y":"25",
             "height": "180",
-	    "Bday": "0000"
+	    "Bday": "0000",
+        	"GPA": "4.3"
         },
 	{
 	    "name": "Seo Hyeon Jeong",
@@ -37,7 +39,9 @@
 		"retake":"N",
 		"grad_y" : "26",
             "height": "180",
-	    "Bday": "0000"
+	    "Bday": "0000",
+                "GPA": "4.3"
+
 	},
 	{
 	    "name": "Myung Gyung Min",
@@ -50,7 +54,9 @@
 		"retake":"N",
 		"grad_y":"28",
             "height": "180",
-	    "Bday":, "0000"
+	    "Bday":, "0000",
+                "GPA": "4.3"
+
 	},
 	{
 	    "name": "Kyeonghun Lee",
@@ -63,7 +69,9 @@
 		"retake":"N",
 		"grad_y":"26",
             "height": "180",
-	    "Bday": "0000"
+	    "Bday": "0000",
+                "GPA": "4.3"
+
 	},
 	{
 		"name": "Soyeon Oh",
@@ -76,7 +84,9 @@
 		"retake":"N",
 		"grad_y" : "27",
             "height": "180",
-	    "Bday": "0000"
+	    "Bday": "0000",
+                "GPA": "4.3"
+
 	},
 	{
 		"name": "Joonseo Kim",
@@ -89,7 +99,9 @@
 		"retake" :"N",
 		"grad_y":"28",
             "height": "180",
-	    "Bday": "0000"
+	    "Bday": "0000",
+                "GPA": "4.3"
+
 	},
 	{
 		"name": "Hosung Doh",
@@ -102,7 +114,9 @@
 		"retake": "N",
 		"grad_y":"27",
             "height": "180",
-	    "Bday": "0000"
+	    "Bday": "0000",
+                "GPA": "4.3"
+
 	},
         {
                 "name": "Minjae Kwun",
@@ -115,7 +129,9 @@
                 "retake": "N",
 		"grad_y":"27",
             "height": "180",
-	    "Bday": "0000"
+	    "Bday": "0000",
+                "GPA": "4.3"
+
         },
 	{
 		"name" : "Jaeho Han",
@@ -128,7 +144,9 @@
 		"retake" : "N",
 		"grad_y" :"26",
             "height": "180",
-	    "Bday": "0000"
+	    "Bday": "0000",
+                "GPA": "4.3"
+
 	},
 	{
 		"name" : "Lee Tae Woo",
@@ -141,7 +159,9 @@
 		"retake" : "N",
 		"grad_y":"29",
             "height": "180",
-	    "Bday": "0000"
+	    "Bday": "0000",
+                "GPA": "4.3"
+
  	},
 	{
 		"name" : "Jaehyun Kim",
@@ -154,7 +174,9 @@
 		"retake" : "N",
 		"grad_y":"26",
             "height": "180",
-	    "Bday":, "0000"
+	    "Bday":, "0000",
+                "GPA": "4.3"
+
 	}
 	{
 		"name": "Ji Won Kim",
@@ -167,7 +189,9 @@
 		"retake":"N",
 		"grad_y":"25",
             "height": "180",
-	    "Bday":, "0000"
+	    "Bday":, "0000",
+                "GPA": "4.3"
+
 	},
         {
 		"name": "JUNHYEOK PARK",
@@ -180,7 +204,9 @@
 		"retake": "N",
 		"grad_y":"26",
             "height": "180",
-	    "Bday":, "0000"
+	    "Bday":, "0000",
+                "GPA": "4.3"
+
         },
         {
             "name": "Junbin Choi",
@@ -193,8 +219,10 @@
             "retake":"N",
             "grad_y": "25",
             "height": "167",
-	    "Bday": "0000"
-        }
+	    "Bday": "0000",
+                "GPA": "4.3"
+
+        },
 	{
 	    "name": "Sohyeon Yu",
 	    "email": "anna5031@kaist.ac.kr",
@@ -206,7 +234,9 @@
 	    "retake": "N",
 	    "grad_y": "25",
 	    "height": "161",
-	    "Bday": "0531"
+	    "Bday": "0531",
+                "GPA": "4.3"
+
 	}
     ]
 }
