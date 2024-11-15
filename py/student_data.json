@@ -190,5 +190,18 @@
 	    "birthday": "2002-05-31"
 	    "height": "161"
 	}
+	{
+	    "name": "Sanggeun Oh",
+	    "email": "osg2313@kaist.ac.kr",
+	    "github_id": "Ohsangguen",
+	    "major": "School of Computing",
+	    "grade": "A+",
+	    "address": "Dong gu 80",
+	    "student_status": "Enrroled",
+	    "retake": "N",
+	    "grad_y": "27",
+	    "height": "177",
+	    "Bdday": "0531"
+	}
     ]
 }
