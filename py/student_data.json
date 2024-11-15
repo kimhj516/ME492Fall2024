@@ -7,7 +7,7 @@
 	    "major": "Mechanical Engineering",
 	    "grade": "A+",
 	    "address":"Busan",
-		"student_status": "Enrroled"
+		"student_status": "Enrroled",
 		"retake":"N"
 		
         },
@@ -18,7 +18,7 @@
 	    "major": "Mechanical Engineering",
 	    "grade": "A+",
 	    "address": "Seoul",
-		"student_status": "Enrroled"
+		"student_status": "Enrroled",
 		"retake":"N"
         },
 	{
@@ -28,7 +28,7 @@
 	    "major": "Mechanical Engineering",
 	    "grade": "A+",
 	    "address": "Daegu",
-		"student_status": "Enrroled"
+		"student_status": "Enrroled",
 		"retake":"N"
 	},
 	{
@@ -38,7 +38,7 @@
 	    "major": "Mechanical Engineering",
 	    "grade": "A+",
 	    "address":"Incheon",
-		"student_status": "Enrroled"
+		"student_status": "Enrroled",
 		"retake":"N"
 	},
 	{
@@ -48,7 +48,7 @@
 	    "major": "Mechanical Engineering",
 	    "grade": "A+",
 	    "address": "Jeju",
-		"student_status": "Enrroled"
+		"student_status": "Enrroled",
 		"retake":"N"
 	},
 	{
@@ -58,7 +58,7 @@
 		"major": "Mechanical Engineering",
 		"grade": "A+",
 		"address":"Jeonju",
-		"student_status": "Enrroled"
+		"student_status": "Enrroled",
 		"retake":"N"
 	},
 	{
@@ -68,7 +68,7 @@
 		"major": "Mechanical Engineering",
 		"grade": "A+",
 		"address":"Bundang",
-		"student_status": "Enrroled"
+		"student_status": "Enrroled",
 		"retake" :"N"
 	},
 	{
@@ -78,7 +78,7 @@
 		"major": "Mechanical Engineering",
 		"grade": "A+",
 		"address": "Seoul",
-		"student_status": "Enrroled"
+		"student_status": "Enrroled",
 		"retake": "N"
 	},
         {
@@ -88,7 +88,7 @@
                 "major": "Mechanical Engineering",
                 "grade": "A+",
                 "address": "Incheon",
-                "student_status": "Enrroled"
+                "student_status": "Enrroled",
                 "retake": "N"
         },
 	{
@@ -98,7 +98,7 @@
 		"major" : "Mechanical Engineering",
 		"grade" : "A+",
 		"address" : "Incheon",
-		"student_status" : "Enrroled"
+		"student_status" : "Enrroled",
 		"retake" : "N"
 	}
 
