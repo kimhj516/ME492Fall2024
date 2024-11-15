@@ -64,9 +64,15 @@ def aleph_null():
 # Therefore I used 'aleph_null' as function name
     for each_student in data["student_data"]:
         print(each_student["name"], "'s height is", each_student["height"])
+
 def anna5031():
     for each_student in data["student_data"]:
         print(each_student["name"], "'s birthday is", each_student["Bday"])
+
 def osg2313():
     for each_student in data["student_data"]:
         print(each_student["name"], "'s Vision is", each_student["Vision"])
+
+def mwhasanid():
+    for each_student in data["student_data"]:
+        print(each_student["name"], "'s phone number is ", each_student["phonenum"])
