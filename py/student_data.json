@@ -125,11 +125,11 @@
 		"name": "Ji Won Kim",
 		"email": "kimjw43@kaist.ac.kr",
 		"github_id": "JiwonKim43",
-	"major": "Mechanical Engineering",
-	"grade": "A+",
-	"address":"Daejeon",
-	"student_status": "Enrroled",
-	"retake":"N"
+		"major": "Mechanical Engineering",
+		"grade": "A+",
+		"address":"Daejeon",
+		"student_status": "Enrroled",
+		"retake":"N"
 	},
     ]
 }
