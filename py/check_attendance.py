@@ -37,7 +37,7 @@ def star_doh():
 
 def kopgh8026():
     for each_student in data["student_data"]:
-        print(each_student["name"], "'s student adress is", each_student["address"])
+        print(each_student["name"], "'s student GPA  is", each_student["GPA"])
 
 def jhhan04():
     for each_student in data["student_data"]:
@@ -66,4 +66,4 @@ def aleph_null():
         print(each_student["name"], "'s height is", each_student["height"])
 def anna5031():
     for each_student in data["student_data"]:
-        print(each_student["name"], "'s birthday is", each_student["birthday"])
+        print(each_student["name"], "'s birthday is", each_student["Bday"])
