@@ -55,6 +55,6 @@ def kimjw43():
     for each_student in data["student_data"]:
         print(each_student["name"], "is majoring in", each_student["major"])
 
-def JHPARK31K():
+def jhpark31k():
     for each_student in data["student_data"]:
         print(each_student["name"], "will graduate in", each_student["grad_y"])
