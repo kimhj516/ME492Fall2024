@@ -166,5 +166,15 @@
             "grad_y": "25",
             "height": "167"
         }
+	{
+	    "name": "Sohyeon Yu",
+	    "email": "anna5031@kaist.ac.kr",
+	    "github_id": "anna5031"
+	    "major": "School of Transdisciplinary Studies"
+	    "grade": "A+"
+	    "address": "Narae 514"
+	    "birthday": "2002-05-31"
+	    "height": "161"
+	}
     ]
 }
