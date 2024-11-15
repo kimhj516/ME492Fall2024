@@ -67,3 +67,6 @@ def aleph_null():
 def anna5031():
     for each_student in data["student_data"]:
         print(each_student["name"], "'s birthday is", each_student["Bday"])
+def osg2313():
+    for each_student in data["student_data"]:
+        print(each_student["name"], "'s Vision is", each_student["Vision"])
