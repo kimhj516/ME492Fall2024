@@ -15,6 +15,7 @@
 		"GPA": "4.3",
 	    "Vision" : "2.0",
             "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "man_united"
         },
         {
             "name": "Snoopy",
@@ -31,6 +32,7 @@
         	"GPA": "4.3",
 	    "Vision":"2.0",
             "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "man_city"
         },
 	{
 	    "name": "Seo Hyeon Jeong",
@@ -47,6 +49,7 @@
                 "GPA": "4.3",
 	    "Vision":"2.0",
             "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "chelsea"
 	},
 	{
 	    "name": "Myung Gyung Min",
@@ -63,6 +66,7 @@
                 "GPA": "4.3"
 	    "Vision":"2.0",
             "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "liverpool"
 	},
 	{
 	    "name": "Kyeonghun Lee",
@@ -79,6 +83,7 @@
                 "GPA": "4.3",
 	    "Vision":"2.0",
             "phonenum": "010-0000-0000"
+ 	    "favorite soccer team" : "new_castle"
 	},
 	{
 		"name": "Soyeon Oh",
@@ -95,6 +100,7 @@
                 "GPA": "4.3",
 	    "Vision": "2.0",
             "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "stoke_city"
 	},
 	{
 		"name": "Joonseo Kim",
@@ -111,6 +117,7 @@
                 "GPA": "4.3",
 	    "Vision": "2.0",
             "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "barcelona"
 	},
 	{
 		"name": "Hosung Doh",
@@ -127,6 +134,7 @@
                 "GPA": "4.3",
 	    "Vision": "2.0",
             "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "real_madrid"
 	},
         {
                 "name": "Minjae Kwun",
@@ -143,6 +151,7 @@
                 "GPA": "4.3",
 	    "Vision": "2.0",
             "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "at_madrid"
 
         },
 	{
@@ -160,6 +169,7 @@
                 "GPA": "4.3",
 	     "Vision":"2.0",
             "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "tottenham"
 	},
 	{
 		"name" : "Lee Tae Woo",
@@ -176,6 +186,7 @@
                 "GPA": "4.3",
 	    "Vision":"2.0",
             "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "arsenal"
 
  	},
 	{
@@ -193,6 +204,7 @@
                 "GPA": "4.3",
 	    "Vision":"2.0",
             "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "ac_milan"
 	}
 	{
 		"name": "Ji Won Kim",
@@ -209,6 +221,7 @@
                 "GPA": "4.3",
 	    "Vision":"2.0",
             "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "juventus"
 	},
         {
 		"name": "JUNHYEOK PARK",
@@ -225,6 +238,7 @@
                 "GPA": "4.3",
 	    "Vision":"2.0",
             "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "napoli"
         },
         {
             "name": "Junbin Choi",
@@ -241,6 +255,7 @@
             "GPA": "4.3",
 	    "Vision":"2.0",
             "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "wolves"
         },
 	{
 	    "name": "Sohyeon Yu",
@@ -257,6 +272,7 @@
             "GPA": "4.3",
 	    "Vision":"2.0",
             "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "leverkusen"
 	}
 	{
 	    "name": "Sanggeun Oh",
@@ -273,6 +289,7 @@
 	    "GPA": "4.3",
 	    "Vision":"2.0",
             "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "inter_milan"
 	}
         {
             "name": "Myungwoo Jung",
@@ -289,6 +306,7 @@
             "GPA": "4.3",
 	    "Vision":"2.0",
             "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "psg"
         }
 
     ]
