@@ -10,7 +10,8 @@
 		"student_status": "Enrroled",
 		"retake":"N",
 	    "grad_y": "25",
-            "height": "180"
+            "height": "180",
+	    "Bday": "0000"
         },
         {
             "name": "Snoopy",
@@ -22,7 +23,8 @@
 		"student_status": "Enrroled",
 		"retake":"N",
 	     "grad_y":"25",
-            "height": "180"
+            "height": "180",
+	    "Bday": "0000"
         },
 	{
 	    "name": "Seo Hyeon Jeong",
@@ -34,7 +36,8 @@
 		"student_status": "Enrroled",
 		"retake":"N",
 		"grad_y" : "26",
-            "height": "180"
+            "height": "180",
+	    "Bday": "0000"
 	},
 	{
 	    "name": "Myung Gyung Min",
@@ -46,7 +49,8 @@
 		"student_status": "Enrroled",
 		"retake":"N",
 		"grad_y":"28",
-            "height": "180"
+            "height": "180",
+	    "Bday":, "0000"
 	},
 	{
 	    "name": "Kyeonghun Lee",
@@ -58,7 +62,8 @@
 		"student_status": "Enrroled",
 		"retake":"N",
 		"grad_y":"26",
-            "height": "180"
+            "height": "180",
+	    "Bday": "0000"
 	},
 	{
 		"name": "Soyeon Oh",
@@ -70,7 +75,8 @@
 		"student_status": "Enrroled",
 		"retake":"N",
 		"grad_y" : "27",
-            "height": "180"
+            "height": "180",
+	    "Bday": "0000"
 	},
 	{
 		"name": "Joonseo Kim",
@@ -82,7 +88,8 @@
 		"student_status": "Enrroled",
 		"retake" :"N",
 		"grad_y":"28",
-            "height": "180"
+            "height": "180",
+	    "Bday": "0000"
 	},
 	{
 		"name": "Hosung Doh",
@@ -94,7 +101,8 @@
 		"student_status": "Enrroled",
 		"retake": "N",
 		"grad_y":"27",
-            "height": "180"
+            "height": "180",
+	    "Bday": "0000"
 	},
         {
                 "name": "Minjae Kwun",
@@ -106,7 +114,8 @@
                 "student_status": "Enrroled",
                 "retake": "N",
 		"grad_y":"27",
-            "height": "180"
+            "height": "180",
+	    "Bday": "0000"
         },
 	{
 		"name" : "Jaeho Han",
@@ -118,7 +127,8 @@
 		"student_status" : "Enrroled",
 		"retake" : "N",
 		"grad_y" :"26",
-            "height": "180"
+            "height": "180",
+	    "Bday": "0000"
 	},
 	{
 		"name" : "Lee Tae Woo",
@@ -130,7 +140,8 @@
 		"student_status" : "Enrroled",
 		"retake" : "N",
 		"grad_y":"29",
-            "height": "180"
+            "height": "180",
+	    "Bday": "0000"
  	},
 	{
 		"name" : "Jaehyun Kim",
@@ -142,7 +153,8 @@
 		"student_status" : "Enrroled",
 		"retake" : "N",
 		"grad_y":"26",
-            "height": "180"
+            "height": "180",
+	    "Bday":, "0000"
 	}
 	{
 		"name": "Ji Won Kim",
@@ -154,7 +166,8 @@
 		"student_status": "Enrroled",
 		"retake":"N",
 		"grad_y":"25",
-            "height": "180"
+            "height": "180",
+	    "Bday":, "0000"
 	},
         {
 		"name": "JUNHYEOK PARK",
@@ -166,7 +179,8 @@
 		"student_status": "Enrroled",
 		"retake": "N",
 		"grad_y":"26",
-            "height": "180"
+            "height": "180",
+	    "Bday":, "0000"
         },
         {
             "name": "Junbin Choi",
@@ -178,7 +192,8 @@
             "student_status": "Enrroled",
             "retake":"N",
             "grad_y": "25",
-            "height": "167"
+            "height": "167",
+	    "Bday": "0000"
         }
 	{
 	    "name": "Sohyeon Yu",
@@ -187,8 +202,11 @@
 	    "major": "School of Transdisciplinary Studies"
 	    "grade": "A+"
 	    "address": "Narae 514"
-	    "birthday": "2002-05-31"
-	    "height": "161"
+	    "student_status": "Enrroled",
+	    "retake": "N",
+	    "grad_y": "25",
+	    "height": "161",
+	    "Bday": "0531"
 	}
     ]
 }
