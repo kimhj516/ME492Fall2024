@@ -175,6 +175,18 @@
                 "student_status": "Enrroled",
                 "retake":"N"
 	    "grad_y": "25"
+        },
+	{
+            "name": "Junbin Choi",
+            "email": "aleph-null@kaist.ac.kr",
+            "github_id": "Junbin210660",
+            "major": "Mechanical Engineering",
+            "grade": "A+",
+            "address":"Gyeonggi-do",
+                "student_status": "Enrroled",
+                "retake":"N"
+	    "grad_y": "25"
+	    "height": "167"
         }
     ]
 }
