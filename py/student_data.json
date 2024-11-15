@@ -162,8 +162,8 @@
             "grade": "A+",
             "address":"Gyeonggi-do",
             "student_status": "Enrroled",
-            "retake":"N"
-            "grad_y": "25"
+            "retake":"N",
+            "grad_y": "25",
             "height": "167"
         }
     ]
