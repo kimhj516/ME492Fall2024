@@ -8,8 +8,8 @@
 	    "grade": "A+",
 	    "address":"Busan",
 		"student_status": "Enrroled",
-		"retake":"N"
-		
+		"retake":"N",
+	    "grad_y": "25"		
         },
         {
             "name": "Snoopy",
@@ -19,7 +19,8 @@
 	    "grade": "A+",
 	    "address": "Seoul",
 		"student_status": "Enrroled",
-		"retake":"N"
+		"retake":"N",
+	     "grad_y":"25"
         },
 	{
 	    "name": "Seo Hyeon Jeong",
@@ -29,7 +30,8 @@
 	    "grade": "A+",
 	    "address": "Daegu",
 		"student_status": "Enrroled",
-		"retake":"N"
+		"retake":"N",
+		"grad_y" : "26"
 	},
 	{
 	    "name": "Myung Gyung Min",
@@ -39,7 +41,8 @@
 	    "grade": "A+",
 	    "address":"Incheon",
 		"student_status": "Enrroled",
-		"retake":"N"
+		"retake":"N",
+		"grad_y":"28"
 	},
 	{
 	    "name": "Kyeonghun Lee",
@@ -49,7 +52,8 @@
 	    "grade": "A+",
 	    "address": "Jeju",
 		"student_status": "Enrroled",
-		"retake":"N"
+		"retake":"N",
+		"grad_y":"26"
 	},
 	{
 		"name": "Soyeon Oh",
@@ -59,7 +63,8 @@
 		"grade": "A+",
 		"address":"Jeonju",
 		"student_status": "Enrroled",
-		"retake":"N"
+		"retake":"N",
+		"grad_y" : "27"
 	},
 	{
 		"name": "Joonseo Kim",
@@ -69,7 +74,8 @@
 		"grade": "A+",
 		"address":"Bundang",
 		"student_status": "Enrroled",
-		"retake" :"N"
+		"retake" :"N",
+		"grad_y":"28"
 	},
 	{
 		"name": "Hosung Doh",
@@ -79,7 +85,8 @@
 		"grade": "A+",
 		"address": "Seoul",
 		"student_status": "Enrroled",
-		"retake": "N"
+		"retake": "N",
+		"grad_y":"27"
 	},
         {
                 "name": "Minjae Kwun",
@@ -89,7 +96,8 @@
                 "grade": "A+",
                 "address": "Incheon",
                 "student_status": "Enrroled",
-                "retake": "N"
+                "retake": "N",
+		"grad_y":"27"
         },
 	{
 		"name" : "Jaeho Han",
@@ -99,7 +107,8 @@
 		"grade" : "A+",
 		"address" : "Incheon",
 		"student_status" : "Enrroled",
-		"retake" : "N"
+		"retake" : "N",
+		"grad_y" :"26"
 	},
 	{
 		"name" : "Lee Tae Woo",
@@ -109,7 +118,8 @@
 		"grade" : "A+",
 		"address" : "Yong In"
 		"student_status" : "Enrroled",
-		"retake" : "N"
+		"retake" : "N",
+		"grad_y":"29"
  	},
 	{
 		"name" : "Jaehyun Kim",
@@ -119,7 +129,8 @@
 		"grade" : "A+",
 		"address" : "Seoul",
 		"student_status" : "Enrroled",
-		"retake" : "N"
+		"retake" : "N",
+		"grad_y":"26"
 	}
 	{
 		"name": "Ji Won Kim",
@@ -129,7 +140,8 @@
 		"grade": "A+",
 		"address":"Daejeon",
 		"student_status": "Enrroled",
-		"retake":"N"
+		"retake":"N",
+		"grad_y":"25"
 	},
         {
 		"name": "JUNHYEOK PARK",
@@ -139,7 +151,8 @@
 		"grade" : "A+",
 		"address":"Daejeon",
 		"student_status": "Enrroled",
-		"retake": "N"
+		"retake": "N",
+		"grad_y":"26"
 	}
     ]
 }
