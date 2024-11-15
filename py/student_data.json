@@ -121,5 +121,15 @@
 		"student_status" : "Enrroled",
 		"retake" : "N"
 	}
+	{
+		"name" : "Jiwon Kim",
+		"email" : "kimjw43@kaist.ac.kr",
+		"github_id" : "JiwonKim43",
+		"major" : "Mechanical Engineering",
+		"grade" : "A+",
+		"address" : "Seoul",
+		"student_status" : "Enrroled",
+		"retake" : "N"
+	}
     ]
 }
