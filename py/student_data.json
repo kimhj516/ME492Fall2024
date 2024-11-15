@@ -110,7 +110,16 @@
 		"address" : "Yong In"
 		"student_status" : "Enrroled",
 		"retake" : "N"
- 	}
+ 	},
+	{
+		"name" : "Jaehyun Kim",
+		"email" : "leohyun777@kaist.ac.kr",
+		"github_id" : "leohyun777",
+		"major" : "Mechanical Engineering",
+		"grade" : "A+",
+		"address" : "Seoul",
+		"student_status" : "Enrroled",
+		"retake" : "N"
 
     ]
 }
