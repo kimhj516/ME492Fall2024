@@ -9,7 +9,8 @@
 	    "address":"Busan",
 		"student_status": "Enrroled",
 		"retake":"N",
-	    "grad_y": "25"		
+	    "grad_y": "25",
+            "height": "180"
         },
         {
             "name": "Snoopy",
@@ -20,7 +21,8 @@
 	    "address": "Seoul",
 		"student_status": "Enrroled",
 		"retake":"N",
-	     "grad_y":"25"
+	     "grad_y":"25",
+            "height": "180"
         },
 	{
 	    "name": "Seo Hyeon Jeong",
@@ -31,7 +33,8 @@
 	    "address": "Daegu",
 		"student_status": "Enrroled",
 		"retake":"N",
-		"grad_y" : "26"
+		"grad_y" : "26",
+            "height": "180"
 	},
 	{
 	    "name": "Myung Gyung Min",
@@ -42,7 +45,8 @@
 	    "address":"Incheon",
 		"student_status": "Enrroled",
 		"retake":"N",
-		"grad_y":"28"
+		"grad_y":"28",
+            "height": "180"
 	},
 	{
 	    "name": "Kyeonghun Lee",
@@ -53,7 +57,8 @@
 	    "address": "Jeju",
 		"student_status": "Enrroled",
 		"retake":"N",
-		"grad_y":"26"
+		"grad_y":"26",
+            "height": "180"
 	},
 	{
 		"name": "Soyeon Oh",
@@ -64,7 +69,8 @@
 		"address":"Jeonju",
 		"student_status": "Enrroled",
 		"retake":"N",
-		"grad_y" : "27"
+		"grad_y" : "27",
+            "height": "180"
 	},
 	{
 		"name": "Joonseo Kim",
@@ -75,7 +81,8 @@
 		"address":"Bundang",
 		"student_status": "Enrroled",
 		"retake" :"N",
-		"grad_y":"28"
+		"grad_y":"28",
+            "height": "180""
 	},
 	{
 		"name": "Hosung Doh",
@@ -86,7 +93,8 @@
 		"address": "Seoul",
 		"student_status": "Enrroled",
 		"retake": "N",
-		"grad_y":"27"
+		"grad_y":"27",
+            "height": "180"
 	},
         {
                 "name": "Minjae Kwun",
@@ -97,7 +105,8 @@
                 "address": "Incheon",
                 "student_status": "Enrroled",
                 "retake": "N",
-		"grad_y":"27"
+		"grad_y":"27",
+            "height": "180"
         },
 	{
 		"name" : "Jaeho Han",
@@ -108,7 +117,8 @@
 		"address" : "Incheon",
 		"student_status" : "Enrroled",
 		"retake" : "N",
-		"grad_y" :"26"
+		"grad_y" :"26",
+            "height": "180"
 	},
 	{
 		"name" : "Lee Tae Woo",
@@ -119,7 +129,8 @@
 		"address" : "Yong In"
 		"student_status" : "Enrroled",
 		"retake" : "N",
-		"grad_y":"29"
+		"grad_y":"29",
+            "height": "180"
  	},
 	{
 		"name" : "Jaehyun Kim",
@@ -130,7 +141,8 @@
 		"address" : "Seoul",
 		"student_status" : "Enrroled",
 		"retake" : "N",
-		"grad_y":"26"
+		"grad_y":"26",
+            "height": "180"
 	}
 	{
 		"name": "Ji Won Kim",
@@ -141,7 +153,8 @@
 		"address":"Daejeon",
 		"student_status": "Enrroled",
 		"retake":"N",
-		"grad_y":"25"
+		"grad_y":"25",
+            "height": "180"
 	},
         {
 		"name": "JUNHYEOK PARK",
@@ -152,7 +165,8 @@
 		"address":"Daejeon",
 		"student_status": "Enrroled",
 		"retake": "N",
-		"grad_y":"26"
+		"grad_y":"26",
+            "height": "180"
         },
         {
             "name": "Junbin Choi",
