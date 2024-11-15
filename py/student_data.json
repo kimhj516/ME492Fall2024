@@ -12,7 +12,8 @@
 	    "grad_y": "25",
             "height": "180",
 	    "Bday": "0000",
-		"GPA": "4.3"
+		"GPA": "4.3",
+            "phonenum": "010-0000-0000"
         },
         {
             "name": "Snoopy",
@@ -26,7 +27,8 @@
 	     "grad_y":"25",
             "height": "180",
 	    "Bday": "0000",
-        	"GPA": "4.3"
+        	"GPA": "4.3",
+            "phonenum": "010-0000-0000"
         },
 	{
 	    "name": "Seo Hyeon Jeong",
@@ -40,8 +42,8 @@
 		"grad_y" : "26",
             "height": "180",
 	    "Bday": "0000",
-                "GPA": "4.3"
-
+                "GPA": "4.3",
+            "phonenum": "010-0000-0000"
 	},
 	{
 	    "name": "Myung Gyung Min",
@@ -55,8 +57,8 @@
 		"grad_y":"28",
             "height": "180",
 	    "Bday":, "0000",
-                "GPA": "4.3"
-
+                "GPA": "4.3",
+            "phonenum": "010-0000-0000"
 	},
 	{
 	    "name": "Kyeonghun Lee",
@@ -70,8 +72,8 @@
 		"grad_y":"26",
             "height": "180",
 	    "Bday": "0000",
-                "GPA": "4.3"
-
+                "GPA": "4.3",
+            "phonenum": "010-0000-0000"
 	},
 	{
 		"name": "Soyeon Oh",
@@ -85,8 +87,8 @@
 		"grad_y" : "27",
             "height": "180",
 	    "Bday": "0000",
-                "GPA": "4.3"
-
+                "GPA": "4.3",
+            "phonenum": "010-0000-0000"
 	},
 	{
 		"name": "Joonseo Kim",
@@ -100,8 +102,8 @@
 		"grad_y":"28",
             "height": "180",
 	    "Bday": "0000",
-                "GPA": "4.3"
-
+                "GPA": "4.3",
+            "phonenum": "010-0000-0000"
 	},
 	{
 		"name": "Hosung Doh",
@@ -115,8 +117,8 @@
 		"grad_y":"27",
             "height": "180",
 	    "Bday": "0000",
-                "GPA": "4.3"
-
+                "GPA": "4.3",
+            "phonenum": "010-0000-0000"
 	},
         {
                 "name": "Minjae Kwun",
@@ -130,7 +132,8 @@
 		"grad_y":"27",
             "height": "180",
 	    "Bday": "0000",
-                "GPA": "4.3"
+                "GPA": "4.3",
+            "phonenum": "010-0000-0000"
 
         },
 	{
@@ -145,8 +148,8 @@
 		"grad_y" :"26",
             "height": "180",
 	    "Bday": "0000",
-                "GPA": "4.3"
-
+                "GPA": "4.3",
+            "phonenum": "010-0000-0000"
 	},
 	{
 		"name" : "Lee Tae Woo",
@@ -160,7 +163,8 @@
 		"grad_y":"29",
             "height": "180",
 	    "Bday": "0000",
-                "GPA": "4.3"
+                "GPA": "4.3",
+            "phonenum": "010-0000-0000"
 
  	},
 	{
@@ -175,8 +179,8 @@
 		"grad_y":"26",
             "height": "180",
 	    "Bday":, "0000",
-                "GPA": "4.3"
-
+                "GPA": "4.3",
+            "phonenum": "010-0000-0000"
 	}
 	{
 		"name": "Ji Won Kim",
@@ -190,8 +194,8 @@
 		"grad_y":"25",
             "height": "180",
 	    "Bday":, "0000",
-                "GPA": "4.3"
-
+                "GPA": "4.3",
+            "phonenum": "010-0000-0000"
 	},
         {
 		"name": "JUNHYEOK PARK",
@@ -205,8 +209,8 @@
 		"grad_y":"26",
             "height": "180",
 	    "Bday":, "0000",
-                "GPA": "4.3"
-
+                "GPA": "4.3",
+            "phonenum": "010-0000-0000"
         },
         {
             "name": "Junbin Choi",
@@ -220,8 +224,8 @@
             "grad_y": "25",
             "height": "167",
 	    "Bday": "0000",
-                "GPA": "4.3"
-
+            "GPA": "4.3",
+            "phonenum": "010-0000-0000"
         },
 	{
 	    "name": "Sohyeon Yu",
@@ -235,8 +239,8 @@
 	    "grad_y": "25",
 	    "height": "161",
 	    "Bday": "0531",
-                "GPA": "4.3"
-
+            "GPA": "4.3",
+            "phonenum": "010-0000-0000"
 	}
 	{
 	    "name": "Sanggeun Oh",
@@ -250,7 +254,24 @@
 	    "grad_y": "27",
 	    "height": "177",
 	    "Bdday": "0531",
-	    "GPA": "4.3"
+	    "GPA": "4.3",
+            "phonenum": "010-0000-0000"
 	}
+        {
+            "name": "Myungwoo Jung",
+            "email": "mwhasanid@kaist.ac.kr",
+            "github_id": "MyungwooJung",
+            "major": "Mechanical Engineering",
+            "grade": "A+",
+            "address": "Seoul",
+            "student_status": "Enrroled",
+            "retake": "N",
+            "grad_y": "27",
+            "height": "150",
+            "Bdday": "0229",
+            "GPA": "4.3",
+            "phonenum": "010-0000-0000"
+        }
+
     ]
 }
