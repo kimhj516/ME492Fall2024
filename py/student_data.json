@@ -51,6 +51,7 @@
             "phonenum": "010-0000-0000"
 	    "favorite soccer team" : "chelsea"
 	},
+	{ "name" : " Taek Geun Nam", "email" : namtg002@kaist.ac.kr", "github_id" : "namtg002", "major" : "MEchanical Engineering", " grade" : : " A+" , "address" : "Anyang", "student_status" : "Enrroled" , "retake" : "N", " height" : "183" , "grad_y" : "28" , "Bday" : "0613" , "GPA" : "4.3" , "Vision" : "1.5" , "phonenum" : "010-6411-1856" , "favorite soccer team" : "Man City" },
 	{
 	    "name": "Myung Gyung Min",
 	    "email": "gmmyung@kaist.ac.kr",
