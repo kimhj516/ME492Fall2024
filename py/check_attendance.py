@@ -58,6 +58,9 @@ def kimjw43():
 def jhpark31k():
     for each_student in data["student_data"]:
         print(each_student["name"], "will graduate in", each_student["grad_y"])
+def namtg002() :
+    for each_student in data["student_datd"]:
+        print(each_student["name"],"'s major is ", each_student["major"]) 
 
 def aleph_null():
 # My email id is 'aleph-null', but in python '-' cannot be used for function name.
