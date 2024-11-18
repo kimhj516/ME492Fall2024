@@ -11,7 +11,11 @@
 		"retake":"N",
 	    "grad_y": "25",
             "height": "180",
-	    "Bday": "0000"
+	    "Bday": "0000",
+		"GPA": "4.3",
+	    "Vision" : "2.0",
+            "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "man_united"
         },
         {
             "name": "Snoopy",
@@ -24,7 +28,11 @@
 		"retake":"N",
 	     "grad_y":"25",
             "height": "180",
-	    "Bday": "0000"
+	    "Bday": "0000",
+        	"GPA": "4.3",
+	    "Vision":"2.0",
+            "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "man_city"
         },
 	{
 	    "name": "Seo Hyeon Jeong",
@@ -37,8 +45,13 @@
 		"retake":"N",
 		"grad_y" : "26",
             "height": "180",
-	    "Bday": "0000"
+	    "Bday": "0000",
+                "GPA": "4.3",
+	    "Vision":"2.0",
+            "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "chelsea"
 	},
+	{ "name" : " Taek Geun Nam","hobby" : "watch movie", "email" :"namtg002@kaist.ac.kr", "github_id" : "namtg002", "major" : "MEchanical Engineering", " grade" : " A+" , "address" : "Anyang", "student_status" : "Enrroled" , "retake" : "N", " height" : "183" , "grad_y" : "28" , "Bday" : "0613" , "GPA" : "4.3" , "Vision" : "1.5" , "phonenum" : "010-6411-1856" , "favorite soccer team" : "Man City" },
 	{
 	    "name": "Myung Gyung Min",
 	    "email": "gmmyung@kaist.ac.kr",
@@ -50,7 +63,11 @@
 		"retake":"N",
 		"grad_y":"28",
             "height": "180",
-	    "Bday":, "0000"
+	    "Bday":, "0000",
+                "GPA": "4.3"
+	    "Vision":"2.0",
+            "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "liverpool"
 	},
 	{
 	    "name": "Kyeonghun Lee",
@@ -63,7 +80,11 @@
 		"retake":"N",
 		"grad_y":"26",
             "height": "180",
-	    "Bday": "0000"
+	    "Bday": "0000",
+                "GPA": "4.3",
+	    "Vision":"2.0",
+            "phonenum": "010-0000-0000"
+ 	    "favorite soccer team" : "new_castle"
 	},
 	{
 		"name": "Soyeon Oh",
@@ -76,7 +97,11 @@
 		"retake":"N",
 		"grad_y" : "27",
             "height": "180",
-	    "Bday": "0000"
+	    "Bday": "0000",
+                "GPA": "4.3",
+	    "Vision": "2.0",
+            "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "stoke_city"
 	},
 	{
 		"name": "Joonseo Kim",
@@ -89,7 +114,11 @@
 		"retake" :"N",
 		"grad_y":"28",
             "height": "180",
-	    "Bday": "0000"
+	    "Bday": "0000",
+                "GPA": "4.3",
+	    "Vision": "2.0",
+            "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "barcelona"
 	},
 	{
 		"name": "Hosung Doh",
@@ -102,7 +131,11 @@
 		"retake": "N",
 		"grad_y":"27",
             "height": "180",
-	    "Bday": "0000"
+	    "Bday": "0000",
+                "GPA": "4.3",
+	    "Vision": "2.0",
+            "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "real_madrid"
 	},
         {
                 "name": "Minjae Kwun",
@@ -115,7 +148,12 @@
                 "retake": "N",
 		"grad_y":"27",
             "height": "180",
-	    "Bday": "0000"
+	    "Bday": "0000",
+                "GPA": "4.3",
+	    "Vision": "2.0",
+            "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "at_madrid"
+
         },
 	{
 		"name" : "Jaeho Han",
@@ -128,7 +166,11 @@
 		"retake" : "N",
 		"grad_y" :"26",
             "height": "180",
-	    "Bday": "0000"
+	    "Bday": "0000",
+                "GPA": "4.3",
+	     "Vision":"2.0",
+            "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "tottenham"
 	},
 	{
 		"name" : "Lee Tae Woo",
@@ -141,7 +183,12 @@
 		"retake" : "N",
 		"grad_y":"29",
             "height": "180",
-	    "Bday": "0000"
+	    "Bday": "0000",
+                "GPA": "4.3",
+	    "Vision":"2.0",
+            "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "arsenal"
+
  	},
 	{
 		"name" : "Jaehyun Kim",
@@ -154,7 +201,11 @@
 		"retake" : "N",
 		"grad_y":"26",
             "height": "180",
-	    "Bday":, "0000"
+	    "Bday":, "0000",
+                "GPA": "4.3",
+	    "Vision":"2.0",
+            "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "ac_milan"
 	}
 	{
 		"name": "Ji Won Kim",
@@ -167,7 +218,11 @@
 		"retake":"N",
 		"grad_y":"25",
             "height": "180",
-	    "Bday":, "0000"
+	    "Bday":, "0000",
+                "GPA": "4.3",
+	    "Vision":"2.0",
+            "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "juventus"
 	},
         {
 		"name": "JUNHYEOK PARK",
@@ -180,7 +235,11 @@
 		"retake": "N",
 		"grad_y":"26",
             "height": "180",
-	    "Bday":, "0000"
+	    "Bday":, "0000",
+                "GPA": "4.3",
+	    "Vision":"2.0",
+            "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "napoli"
         },
         {
             "name": "Junbin Choi",
@@ -193,8 +252,12 @@
             "retake":"N",
             "grad_y": "25",
             "height": "167",
-	    "Bday": "0000"
-        }
+	    "Bday": "0000",
+            "GPA": "4.3",
+	    "Vision":"2.0",
+            "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "wolves"
+        },
 	{
 	    "name": "Sohyeon Yu",
 	    "email": "anna5031@kaist.ac.kr",
@@ -206,7 +269,46 @@
 	    "retake": "N",
 	    "grad_y": "25",
 	    "height": "161",
-	    "Bday": "0531"
+	    "Bday": "0531",
+            "GPA": "4.3",
+	    "Vision":"2.0",
+            "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "leverkusen"
 	}
+	{
+	    "name": "Sanggeun Oh",
+	    "email": "osg2313@kaist.ac.kr",
+	    "github_id": "Ohsangguen",
+	    "major": "School of Computing",
+	    "grade": "A+",
+	    "address": "Dong gu 80",
+	    "student_status": "Enrroled",
+	    "retake": "N",
+	    "grad_y": "27",
+	    "height": "177",
+	    "Bdday": "0531",
+	    "GPA": "4.3",
+	    "Vision":"2.0",
+            "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "inter_milan"
+	}
+        {
+            "name": "Myungwoo Jung",
+            "email": "mwhasanid@kaist.ac.kr",
+            "github_id": "MyungwooJung",
+            "major": "Mechanical Engineering",
+            "grade": "A+",
+            "address": "Seoul",
+            "student_status": "Enrroled",
+            "retake": "N",
+            "grad_y": "27",
+            "height": "150",
+            "Bdday": "0229",
+            "GPA": "4.3",
+	    "Vision":"2.0",
+            "phonenum": "010-0000-0000"
+	    "favorite soccer team" : "psg"
+        }
+
     ]
 }

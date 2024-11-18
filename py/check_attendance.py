@@ -38,7 +38,7 @@ def star_doh():
 
 def kopgh8026():
     for each_student in data["student_data"]:
-        print(each_student["name"], "'s student adress is", each_student["address"])
+        print(each_student["name"], "'s student GPA  is", each_student["GPA"])
 
 def jhhan04():
     for each_student in data["student_data"]:
@@ -59,12 +59,24 @@ def kimjw43():
 def jhpark31k():
     for each_student in data["student_data"]:
         print(each_student["name"], "will graduate in", each_student["grad_y"])
+def namtg002() :
+    for each_student in data["student_data"]:
+        print(each_student["name"],"'s major is ", each_student["major"]) 
 
 def aleph_null():
 # My email id is 'aleph-null', but in python '-' cannot be used for function name.
 # Therefore I used 'aleph_null' as function name
     for each_student in data["student_data"]:
         print(each_student["name"], "'s height is", each_student["height"])
+
 def anna5031():
     for each_student in data["student_data"]:
         print(each_student["name"], "'s birthday is", each_student["Bday"])
+
+def osg2313():
+    for each_student in data["student_data"]:
+        print(each_student["name"], "'s Vision is", each_student["Vision"])
+
+def mwhasanid():
+    for each_student in data["student_data"]:
+        print(each_student["name"], "'s phone number is ", each_student["phonenum"])

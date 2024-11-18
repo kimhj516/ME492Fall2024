@@ -27,3 +27,5 @@ message(STATUS "CMAKE_C_FLAGS_DEBUG = ${CMAKE_C_FLAGS_DEBUG}")
 
 enable_testing()
 add_subdirectory(practice_01)
+add_subdirectory(practice_02)
+add_subdirectory(homework4)
