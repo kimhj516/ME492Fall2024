@@ -2,6 +2,7 @@
 #include <boost/algorithm/string/trim.hpp>
 #include <boost/filesystem.hpp>
 #include <boost/program_options.hpp>
+#include <fstream>
 #include <iostream>
 #include <vector>
 
