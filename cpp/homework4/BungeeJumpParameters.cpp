@@ -1,6 +1,4 @@
 #include "BungeeJumpParameters.h"
-#include <iostream>
-#include <vector>
 
 double BungeeJumpParameters::gravitational_acceleration() const {
   return _gravitational_acceleration;

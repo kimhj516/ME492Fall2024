@@ -1,8 +1,5 @@
 #pragma once
 
-#include <iostream>
-#include <vector>
-
 struct BungeeJumpParameters {
 public:
   BungeeJumpParameters() = default;
