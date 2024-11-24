@@ -1,6 +1,7 @@
 #pragma once
 
 #include "BungeeJumpParameters.h"
+#include <string>
 #include <vector>
 
 class BungeeJump {
