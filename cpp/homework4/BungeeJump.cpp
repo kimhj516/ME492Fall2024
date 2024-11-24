@@ -3,6 +3,7 @@
 #include <fstream>
 #include <iostream>
 #include <math.h>
+#include <string>
 
 BungeeJump::BungeeJump(BungeeJumpParameters &parameters)
     : _parameters(parameters) {}
