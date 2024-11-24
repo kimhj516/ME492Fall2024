@@ -2,3 +2,4 @@ cpp/build
 cpp/.DS_Store
 .DS_Store
 cpp/.cache/clangd/index
+cpp/homework4/.cache/clangd/index
