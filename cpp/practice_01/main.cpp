@@ -51,9 +51,15 @@ std::vector<double> readInputFile(std::string input_file) {
   return vertices;
 }
 
-std::vector<double> scaleData(std::vector<double> vertices,
-                              double scale_factor) {
-  return vertices;
+std::vector<double> scaleData(std::vector<double> vertices, double scale_factor)
+{
+    std::vector<double> scaled_vertices;
+    int number_of_data_points = static_cast<int>(vertices.size());
+    for (int i = 0; i < number_of_data_points; ++i)
+    {
+        scaled_vertices.push_back(scale_factor * vertices[i]);
+    }
+    return scaled_vertices;
 }
 
 void writeFile(std::vector<double> scaled_vertices, std::string output_file) {
