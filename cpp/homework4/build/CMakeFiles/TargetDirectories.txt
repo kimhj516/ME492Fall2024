@@ -1,0 +1,3 @@
+/home/anna5031/ME492Fall2024/cpp/homework4/build/CMakeFiles/execute_homework4.dir
+/home/anna5031/ME492Fall2024/cpp/homework4/build/CMakeFiles/edit_cache.dir
+/home/anna5031/ME492Fall2024/cpp/homework4/build/CMakeFiles/rebuild_cache.dir
