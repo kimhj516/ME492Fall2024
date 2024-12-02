@@ -14,7 +14,7 @@
 	    "Bday": "0000",
 		"GPA": "4.3",
 	    "Vision" : "2.0",
-            "phonenum": "010-0000-0000"
+            "phonenum": "010-0000-0000",
 	    "favorite soccer team" : "man_united"
         },
         {
@@ -31,7 +31,7 @@
 	    "Bday": "0000",
         	"GPA": "4.3",
 	    "Vision":"2.0",
-            "phonenum": "010-0000-0000"
+            "phonenum": "010-0000-0000",
 	    "favorite soccer team" : "man_city"
         },
 	{
@@ -48,7 +48,7 @@
 	    "Bday": "0000",
                 "GPA": "4.3",
 	    "Vision":"2.0",
-            "phonenum": "010-0000-0000"
+            "phonenum": "010-0000-0000",
 	    "favorite soccer team" : "chelsea"
 	},
 	{ "name" : " Taek Geun Nam","hobby" : "watch movie", "email" :"namtg002@kaist.ac.kr", "github_id" : "namtg002", "major" : "MEchanical Engineering", " grade" : " A+" , "address" : "Anyang", "student_status" : "Enrroled" , "retake" : "N", " height" : "183" , "grad_y" : "28" , "Bday" : "0613" , "GPA" : "4.3" , "Vision" : "1.5" , "phonenum" : "010-6411-1856" , "favorite soccer team" : "Man City" },
@@ -66,7 +66,7 @@
 	    "Bday":, "0000",
                 "GPA": "4.3"
 	    "Vision":"2.0",
-            "phonenum": "010-0000-0000"
+            "phonenum": "010-0000-0000",
 	    "favorite soccer team" : "liverpool"
 	},
 	{
@@ -83,7 +83,7 @@
 	    "Bday": "0000",
                 "GPA": "4.3",
 	    "Vision":"2.0",
-            "phonenum": "010-0000-0000"
+            "phonenum": "010-0000-0000",
  	    "favorite soccer team" : "new_castle"
 	},
 	{
@@ -100,7 +100,7 @@
 	    "Bday": "0000",
                 "GPA": "4.3",
 	    "Vision": "2.0",
-            "phonenum": "010-0000-0000"
+            "phonenum": "010-0000-0000",
 	    "favorite soccer team" : "stoke_city"
 	},
 	{
@@ -117,7 +117,7 @@
 	    "Bday": "0000",
                 "GPA": "4.3",
 	    "Vision": "2.0",
-            "phonenum": "010-0000-0000"
+            "phonenum": "010-0000-0000",
 	    "favorite soccer team" : "barcelona"
 	},
 	{
@@ -134,7 +134,7 @@
 	    "Bday": "0000",
                 "GPA": "4.3",
 	    "Vision": "2.0",
-            "phonenum": "010-0000-0000"
+            "phonenum": "010-0000-0000",
 	    "favorite soccer team" : "real_madrid"
 	},
         {
@@ -151,7 +151,7 @@
 	    "Bday": "0000",
                 "GPA": "4.3",
 	    "Vision": "2.0",
-            "phonenum": "010-0000-0000"
+            "phonenum": "010-0000-0000",
 	    "favorite soccer team" : "at_madrid"
 
         },
@@ -169,7 +169,7 @@
 	    "Bday": "0000",
                 "GPA": "4.3",
 	     "Vision":"2.0",
-            "phonenum": "010-0000-0000"
+            "phonenum": "010-0000-0000",
 	    "favorite soccer team" : "tottenham"
 	},
 	{
@@ -186,7 +186,7 @@
 	    "Bday": "0000",
                 "GPA": "4.3",
 	    "Vision":"2.0",
-            "phonenum": "010-0000-0000"
+            "phonenum": "010-0000-0000",
 	    "favorite soccer team" : "arsenal"
 
  	},
@@ -204,9 +204,9 @@
 	    "Bday":, "0000",
                 "GPA": "4.3",
 	    "Vision":"2.0",
-            "phonenum": "010-0000-0000"
+            "phonenum": "010-0000-0000",
 	    "favorite soccer team" : "ac_milan"
-	}
+	},
 	{
 		"name": "Ji Won Kim",
 		"email": "kimjw43@kaist.ac.kr",
@@ -221,7 +221,7 @@
 	    "Bday":, "0000",
                 "GPA": "4.3",
 	    "Vision":"2.0",
-            "phonenum": "010-0000-0000"
+            "phonenum": "010-0000-0000",
 	    "favorite soccer team" : "juventus"
 	},
         {
@@ -238,7 +238,7 @@
 	    "Bday":, "0000",
                 "GPA": "4.3",
 	    "Vision":"2.0",
-            "phonenum": "010-0000-0000"
+            "phonenum": "010-0000-0000",
 	    "favorite soccer team" : "napoli"
         },
         {
@@ -255,7 +255,7 @@
 	    "Bday": "0000",
             "GPA": "4.3",
 	    "Vision":"2.0",
-            "phonenum": "010-0000-0000"
+            "phonenum": "010-0000-0000",
 	    "favorite soccer team" : "wolves"
         },
 	{
@@ -272,9 +272,9 @@
 	    "Bday": "0531",
             "GPA": "4.3",
 	    "Vision":"2.0",
-            "phonenum": "010-0000-0000"
+            "phonenum": "010-0000-0000",
 	    "favorite soccer team" : "leverkusen"
-	}
+	},
 	{
 	    "name": "Sanggeun Oh",
 	    "email": "osg2313@kaist.ac.kr",
@@ -289,9 +289,9 @@
 	    "Bdday": "0531",
 	    "GPA": "4.3",
 	    "Vision":"2.0",
-            "phonenum": "010-0000-0000"
+            "phonenum": "010-0000-0000",
 	    "favorite soccer team" : "inter_milan"
-	}
+	},
         {
             "name": "Myungwoo Jung",
             "email": "mwhasanid@kaist.ac.kr",
@@ -306,9 +306,9 @@
             "Bdday": "0229",
             "GPA": "4.3",
 	    "Vision":"2.0",
-            "phonenum": "010-0000-0000"
+            "phonenum": "010-0000-0000",
 	    "favorite soccer team" : "psg"
-        }
+        },
 	{
 
             "name": "Tae Hoon Lee",
@@ -324,9 +324,8 @@
             "Bdday": "0229",
             "GPA": "4.3",
             "Vision":"2.0",
-            "phonenum": "010-0000-0000"
+            "phonenum": "010-0000-0000",
             "favorite soccer team" : "psg"
-
 
 	}
     ]
