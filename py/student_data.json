@@ -309,6 +309,25 @@
             "phonenum": "010-0000-0000"
 	    "favorite soccer team" : "psg"
         }
+	{
 
+            "name": "Tae Hoon Lee",
+            "email": "0109taehoon@kaist.ac.kr",
+            "github_id": "taehoon-kai",
+            "major": "Mechanical Engineering",
+            "grade": "A+",
+            "address":"Seoul",
+            "student_status": "Enrroled",
+            "retake":"N"
+            "grad_y": "27",
+            "height": "175",
+            "Bdday": "0229",
+            "GPA": "4.3",
+            "Vision":"2.0",
+            "phonenum": "010-0000-0000"
+            "favorite soccer team" : "psg"
+
+
+	}
     ]
 }

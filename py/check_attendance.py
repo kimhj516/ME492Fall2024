@@ -80,3 +80,7 @@ def osg2313():
 def mwhasanid():
     for each_student in data["student_data"]:
         print(each_student["name"], "'s phone number is ", each_student["phonenum"])
+
+def 0109taehoon():
+    for each_student in data["student_data"]:
+        print(each_student["name"], "'s student grade is", each_student["grade"])
